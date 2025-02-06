@@ -1,5 +1,5 @@
 <h1> Hi there 👋 </h1>
-<h3> My name is Daniel, and I'm currently a CUNY Student attending Hunter College, aspiring to be a Front-End Web Developer. </h3>
+<h5> My name is Daniel, and I'm currently a CUNY Student attending Hunter College, aspiring to be a Front-End Web Developer. </h5>
 
 - 🌱 I’m currently learning C++, Python, JS, HTML
 - 📫 How to reach me: danielfdz52803@gmail.com
