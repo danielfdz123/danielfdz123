@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning C++, Python, JS, HTML
 - 📫 How to reach me: danielfdz52803@gmail.com
-- 🖥️ All of my work is available at [https://github.com/danielfdz123] (https://github.com/danielfdz123)
+- 🖥️ All of my work is available at https://github.com/danielfdz123
 - 🤓 Below are a list of projects I have worked on:
     - 
 <!--
