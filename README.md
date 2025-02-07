@@ -10,7 +10,7 @@
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_235/tree/main"> Character Class Simulator </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project1"> Book Catalog Manager </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project2"> Median ADT: Comparing Performances </a> </i> </b>
-    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project3"> Comparing ADTs for Stqatistical Computations </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project3"> Comparing ADTs for Statistical Computations </a> </i> </b>
     
 <h3> Connect with Me! </h3>
 📫 Email: danielfdz52803@gmail.com <br>
