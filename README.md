@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning C++, Python, JS, HTML
 - 🖥️ All of my work is available at https://github.com/danielfdz123
+
 - 🤓 Below are a list of projects I have worked on:
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_135/tree/main/Project1"> Maze Runner </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_135/tree/main/Project2"> Banking System </a> </i> </b>
@@ -11,8 +12,12 @@
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project2"> Median ADT: Comparing Performances </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project3"> Comparing ADTs for Stqatistical Computations </a> </i> </b>
     
-<h4> Connect with Me! </h4>
-- 📫 Email: danielfdz52803@gmail.com
+<h3> Connect with Me! </h3>
+📫 Email: danielfdz52803@gmail.com <br>
+<a href= "https://www.linkedin.com/in/danielfdz123/" target="blank">
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Daniel Fernandez" height="50" width="50" /></a>
+
+
 
 
 <!--
