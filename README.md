@@ -1,11 +1,20 @@
-<h1> Hi there 👋 </h1>
-<h4> My name is Daniel, and I'm currently a CUNY Student attending Hunter College, aspiring to be a Front-End Web Developer. </h4>
+<h1> Hi there 👋, I'm Daniel Fernandez </h1>
+<h4> I am currently a CUNY Student attending Hunter College, currently exploring various fields in CS, including front-end development, algorithms, and data structures. </h4>
 
 - 🌱 I’m currently learning C++, Python, JS, HTML
-- 📫 How to reach me: danielfdz52803@gmail.com
 - 🖥️ All of my work is available at https://github.com/danielfdz123
 - 🤓 Below are a list of projects I have worked on:
-    - 
+    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_135/tree/main/Project1"> Maze Runner </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_135/tree/main/Project2"> Banking System </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_235/tree/main"> Character Class Simulator </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project1"> Book Catalog Manager </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project2"> Median ADT: Comparing Performances </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project3"> Comparing ADTs for Stqatistical Computations </a> </i> </b>
+    
+<h4> Connect with Me! </h4>
+- 📫 Email: danielfdz52803@gmail.com
+
+
 <!--
 **danielfdz123/danielfdz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
