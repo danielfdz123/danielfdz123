@@ -17,11 +17,6 @@
 <a href= "https://www.linkedin.com/in/danielfdz123/" >
 <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" height="50" width="50" /></a>
 
-
-[![Spotify](https://spotify-now-playing-kappa-neon.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
-
-
 <!--
 **danielfdz123/danielfdz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
