@@ -1,5 +1,5 @@
 <h1 align = "center" > Hi there 👋, I'm Daniel Fernandez </h1>
-<h4 align = "center" > I am currently a CUNY Student attending Hunter College, currently exploring various fields in CS, including front-end development, algorithms, and data structures. </h4>
+<h3 align = "center" > I am currently a CUNY Student attending Hunter College, currently exploring various fields in CS, including front-end development, algorithms, and data structures. </h3>
 
 - 🌱 I’m currently learning C++, Python, JS, HTML
 - 🖥️ All of my work is available at https://github.com/danielfdz123
