@@ -1,5 +1,5 @@
-<h1> Hi there 👋, I'm Daniel Fernandez </h1>
-<h4> I am currently a CUNY Student attending Hunter College, currently exploring various fields in CS, including front-end development, algorithms, and data structures. </h4>
+<h1 align = "center" > Hi there 👋, I'm Daniel Fernandez </h1>
+<h4 align = "center" > I am currently a CUNY Student attending Hunter College, currently exploring various fields in CS, including front-end development, algorithms, and data structures. </h4>
 
 - 🌱 I’m currently learning C++, Python, JS, HTML
 - 🖥️ All of my work is available at https://github.com/danielfdz123
@@ -14,8 +14,8 @@
     
 <h3> Connect with Me! </h3>
 📫 Email: danielfdz52803@gmail.com <br>
-<a href= "https://www.linkedin.com/in/danielfdz123/" target="blank">
-<img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Daniel Fernandez" height="50" width="50" /></a>
+<a href= "https://www.linkedin.com/in/danielfdz123/" >
+<img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" height="50" width="50" /></a>
 
 
 
