@@ -2,7 +2,7 @@
 <h3 align = "center" > I am currently a CUNY Student attending Hunter College, currently exploring various fields in CS, including front-end development, algorithms, and data structures. </h3>
 
 - 🌱 I’m currently learning C++, Python, JS, HTML
-- 🖥️ All of my work is available at https://github.com/danielfdz123
+- 🖥️ All of my work is available at [https://github.com/danielfdz123](https://github.com/danielfdz123?tab=repositories)
 
 - 🤓 Below are a list of projects I have worked on:
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_135/tree/main/Project1"> Maze Runner </a> </i> </b>
