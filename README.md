@@ -11,7 +11,7 @@
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project1"> Book Catalog Manager </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project2"> Median ADT: Comparing Performances </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project3"> Comparing ADTs for Statistical Computations </a> </i> </b>
-    - <b> <i> <a href="https://github.com/danielfdz123/FinalProj"> Minecraft Server Discussion Board </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/CodePath/tree/main/FinalProj"> Minecraft Server Discussion Board </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/Capstone"> Fitformula - Fitness App </a> </i> </b>
 
     
