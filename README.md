@@ -5,12 +5,12 @@
 - 🖥️ All of my work is available at [https://github.com/danielfdz123](https://github.com/danielfdz123?tab=repositories)
 
 - 🤓 Below are a list of projects I have worked on:
-    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_135/tree/main/Project1"> Maze Runner </a> </i> </b>
-    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_135/tree/main/Project2"> Banking System </a> </i> </b>
-    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_235/tree/main"> Character Class Simulator </a> </i> </b>
-    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project1"> Book Catalog Manager </a> </i> </b>
-    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project2"> Median ADT: Comparing Performances </a> </i> </b>
-    - <b> <i> <a href="https://github.com/danielfdz123/CSCI_335/tree/main/Project3"> Comparing ADTs for Statistical Computations </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/Hunter/tree/main/CSCI_135/Project1"> Maze Runner </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/Hunter/tree/main/CSCI_135/Project2"> Banking System </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/Hunter/tree/main/CSCI_235"> Character Class Simulator </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/Hunter/tree/main/CSCI_335/Project1"> Book Catalog Manager </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/Hunter/tree/main/CSCI_335/Project2"> Median ADT: Comparing Performances </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/Hunter/tree/main/CSCI_335/Project3"> Comparing ADTs for Statistical Computations </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/CodePath/tree/main/FinalProj"> Minecraft Server Discussion Board </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/Capstone"> Fitformula - Fitness App </a> </i> </b>
 
