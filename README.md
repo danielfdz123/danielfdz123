@@ -13,6 +13,7 @@
     - <b> <i> <a href="https://github.com/danielfdz123/Hunter/tree/main/CSCI_335/Project3"> Comparing ADTs for Statistical Computations </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/CodePath/tree/main/FinalProj"> Minecraft Server Discussion Board </a> </i> </b>
     - <b> <i> <a href="https://github.com/danielfdz123/Capstone"> Fitformula - Fitness App </a> </i> </b>
+    - <b> <i> <a href="https://github.com/danielfdz123/Dev-Playground/tree/main/WorldCupCalendar"> World Cup Matches x Google Calendar </a> </i> </b>
 
     
 <h3> Connect with Me! </h3>
